@@ -1,0 +1,9 @@
+html, body{
+  overflow: hidden;
+}
+
+.hidden{
+  /* display: none; */
+  opacity: 0 !important;
+  pointer-events: none;
+}
